@@ -14,42 +14,42 @@ export class AppComponent {
       image: 'assets/images/camiseta.png',
       title: 'Camiseta',
       price: 80000,
-      description: 'bla bla bla bla bla'
+      description: 'Una camiseta de la conferencia del 2019'
     },
     {
       id: '2',
       image: 'assets/images/hoodie.png',
       title: 'Hoodie',
-      price: 80000,
-      description: 'bla bla bla bla bla'
+      price: 90000,
+      description: 'Un sudadero para que te sientas parte del equipo'
     },
     {
       id: '3',
       image: 'assets/images/mug.png',
       title: 'Mug',
-      price: 80000,
-      description: 'bla bla bla bla bla'
+      price: 0000,
+      description: 'Taza para beber positivismo todos los días'
     },
     {
       id: '4',
       image: 'assets/images/pin.png',
       title: 'Pin',
-      price: 80000,
-      description: 'bla bla bla bla bla'
+      price: 10000,
+      description: 'Siéntete identificado'
     },
     {
       id: '5',
       image: 'assets/images/stickers1.png',
       title: 'Stickers',
-      price: 80000,
-      description: 'bla bla bla bla bla'
+      price: 8000,
+      description: 'Chulas, bonitas y adornan tu computadora u otro espacio'
     },
     {
       id: '6',
       image: 'assets/images/stickers2.png',
       title: 'Stickers',
-      price: 80000,
-      description: 'bla bla bla bla bla'
+      price: 8000,
+      description: 'Chulas, bonitas y adornan tu computadora u otro espacio'
     }
   ];
 }
